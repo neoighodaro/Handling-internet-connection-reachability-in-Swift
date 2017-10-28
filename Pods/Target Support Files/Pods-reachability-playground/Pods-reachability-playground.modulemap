@@ -1,0 +1,6 @@
+framework module Pods_reachability_playground {
+  umbrella header "Pods-reachability-playground-umbrella.h"
+
+  export *
+  module * { export * }
+}
